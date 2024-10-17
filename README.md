@@ -15,11 +15,11 @@ This is a simple **Rule Engine** application built with **React** and in backend
 - Neon hover effects on the buttons and an attractive layout.
 
 ## Screenshots
-![imageRule](ht
+![imageRule](https://github.com/user-attachments/assets/0a8626e1-47c4-4937-a936-7f02a014ce56)
 
-https://github.com/user-attachments/assets/59ddf310-0a7c-4fae-af22-36908e4a8b0f
+![imageRule](https://github.com/user-attachments/assets/59ddf310-0a7c-4fae-af22-36908e4a8b0f)
 
-tps://github.com/user-attachments/assets/0a8626e1-47c4-4937-a936-7f02a014ce56)
+
 
 
 ## Installation
