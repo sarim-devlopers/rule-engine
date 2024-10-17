@@ -1,0 +1,90 @@
+
+.App {
+  text-align: center;
+  font-family: 'Poppins', sans-serif; /* Use a bold font */
+  background: url('./hero-background.jpg') no-repeat center center fixed;
+  /* background: linear-gradient(145deg, #1f1f38, #3b2062); Dark gradient background */
+  background-size: cover; 
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+/* Large, bold header with neon-like effect */
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #fff;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  position: relative;
+}
+
+/* Subtle underline highlight effect */
+h1::after {
+  content: '';
+  width: 150px;
+  height: 5px;
+  background: linear-gradient(90deg, #fbc619, #ff4f81);
+  position: absolute;
+  left: 50%;
+  bottom: -10px;
+  transform: translateX(-50%);
+}
+
+/* Styling the form */
+form {
+  background-color: rgba(255, 255, 255, 0.1); /* Translucent form background */
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+  width: 400px;
+}
+
+/* Labels for form inputs */
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+/* Input and textarea styling */
+input, textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+/* Styling the button with neon hover effect */
+button {
+  background-color: #ff4f81;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #fbc619;
+  box-shadow: 0 0 15px #fbc619, 0 0 25px #ff4f81;
+}
+
+/* Result box styling */
+.result {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  font-size: 1.2rem;
+}
