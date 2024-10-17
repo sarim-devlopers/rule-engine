@@ -19,7 +19,7 @@ This is a simple **Rule Engine** application built with **React** and in backend
 
 
 ## Video
-![imageRule](https://github.com/user-attachments/assets/59ddf310-0a7c-4fae-af22-36908e4a8b0f)
+https://github.com/user-attachments/assets/59ddf310-0a7c-4fae-af22-36908e4a8b0f
 
 
 
