@@ -15,7 +15,9 @@ This is a simple **Rule Engine** application built with **React** and in backend
 - Neon hover effects on the buttons and an attractive layout.
 
 ## Screenshots
-https://media.discordapp.net/attachments/925085428309192744/1296420545826394122/image.png?ex=67123938&is=6710e7b8&hm=ca7ba497d72bd8d3b0c554c69e1200496936c95e6db2de5c002055b50c9335af&=&format=webp&quality=lossless&width=1436&height=662
+![imageRule](https://github.com/user-attachments/assets/0a8626e1-47c4-4937-a936-7f02a014ce56)
+
+
 ## Installation
 
 ### Prerequisites
